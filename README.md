@@ -1,3 +1,3 @@
-# Nathalie-NasaSuits
+# Nathalie-NASASUITS
 
 RCC NASA SUITS UNITY Units 1 & 2
